@@ -95,10 +95,14 @@ All pages support cross-filtering via:
  
 ## 📸 Screenshots
  
-| Overview | Product Analysis | Time Analysis |
-|---|---|---|
-| ![Overview](<img width="1298" height="728" alt="Screenshot 2026-04-17 193803" src="https://github.com/user-attachments/assets/bc745a79-1d13-493a-bf31-de4d5df9d54d" />)
-| ![Product](screenshots/product_analysis.png) | ![Time](screenshots/time_analysis.png) |
+ Overview
+<img width="1298" height="728" alt="Screenshot 2026-04-17 193803" src="https://github.com/user-attachments/assets/bc745a79-1d13-493a-bf31-de4d5df9d54d" />
+
+ Product Analysis
+<img width="1286" height="723" alt="Screenshot 2026-04-17 193823" src="https://github.com/user-attachments/assets/177a10fd-dbb6-485c-aa82-7a5c57c7cf95" />
+ Time Analysis
+<img width="1296" height="735" alt="Screenshot 2026-04-17 193902" src="https://github.com/user-attachments/assets/644d01e4-fbd6-4a54-8743-46450f2e42aa" />
+
  
 ---
  
